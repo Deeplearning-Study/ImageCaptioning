@@ -22,7 +22,7 @@ XAI - 머신러닝 모델의 블랙박스 성향을 인간이 이해할 수 있�
 
 트리 모형을 따라가면서 0.101999916이라는 마지막 데이터(leaf data)를 얻었다. 
 
-이 수치는 logistic function으로 (logistic function = $$e^{(X_i)} / {1+e^{(X_i)}}$$  )
+이 수치는 logistic function으로 (logistic function = <img src="https://render.githubusercontent.com/render/math?math=e^{(X_i)} / {1+e^{(X_i)}}"> )
 
 로지스틱 공식에 따라, 모델이 환자가 당뇨병에 걸렸다고 진단할 확률은 52.55%이며, 이는 전문가보다는 근거가 부족하나 비전문가의 근거 없는 예상보다는 해석적이라는 것을 알 수 있다.
 
