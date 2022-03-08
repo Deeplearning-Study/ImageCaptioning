@@ -32,7 +32,7 @@ XAI의 기본 기법의 하나인 피처 중요도(Feature Importance)는 모델
 
 ## 3.3 시각화와 XAI의 차이 이해하기
 
-XAI $ {\neq} $ Visualization(시각화)
+XAI <img src="https://render.githubusercontent.com/render/math?math=\neq"> Visualization(시각화)
 
 즉 XAI가 대개의 경우 시각화 기법에 의존하고 있지만 머신러닝 모델을 시각화했다고 해서 모두 XAI로 볼 수 없다. → 핵심은 해석 가능성
 
